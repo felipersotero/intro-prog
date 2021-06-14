@@ -3,6 +3,11 @@
 
 using namespace std;
 
+/*
+05) Leia 3 notas de um aluno e calcule a média desse aluno.
+*/
+
+
 int main(){
 
     setlocale(LC_ALL, "Portuguese");

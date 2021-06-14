@@ -4,6 +4,11 @@
 
 using namespace std;
 
+/*
+07) Dados os pontos A, de coordenadas A (x1, y1), e B de coordenadas (x2, y2), fazer um programa que
+determine a distância entre os dois pontos.
+*/
+
 int main(){
 
     setlocale(LC_ALL, "Portuguese");

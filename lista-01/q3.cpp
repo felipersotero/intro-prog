@@ -3,6 +3,13 @@
 
 using namespace std;
 
+/*
+03) Faça um programa que leia A, B e C e calcule o resultado das seguintes fórmulas:
+    a. (5*C+12*B) *A
+    b. ((2*A)-B)*C
+    c. (5+A)-(B*C)
+*/
+
 int main(){
 
     setlocale(LC_ALL, "Portuguese");

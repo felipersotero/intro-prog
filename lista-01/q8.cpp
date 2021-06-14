@@ -3,6 +3,11 @@
 
 using namespace std;
 
+/*
+08) Fazer um programa que converta um intervalo de tempo dado em segundos para horas, minutos e
+segundos. Por exemplo, se o tempo dado for 3850 segundos, o programa deverá fornecer 1h 4 min 10s.
+*/
+
 int main(){
 
     setlocale(LC_ALL, "Portuguese");

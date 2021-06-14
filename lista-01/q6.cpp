@@ -3,6 +3,11 @@
 
 using namespace std;
 
+/*
+06) Escrever um programa para trocar o conteúdo de duas variáveis. Obs.: As variáveis devem ser lidas
+com o scanf e devem ter o tipo int.
+*/
+
 int main(){
 
     setlocale(LC_ALL, "Portuguese");

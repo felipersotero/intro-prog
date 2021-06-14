@@ -3,6 +3,12 @@
 
 using namespace std;
 
+/*
+04) Construa um programa que leia o número de horas que um funcionário trabalha por dia (NH) e
+calcule a quantidade de horas trabalhadas em 30 dias.
+*/
+
+
 int main(){
 
     setlocale(LC_ALL, "Portuguese");

@@ -3,6 +3,12 @@
 
 using namespace std;
 
+/*
+09) A revendedora de carros XYZ Ltda., paga a seus funcionários, um salário mínimo (considere R$
+678,00), mais uma comissão de R$ 50,00 por carro vendido. Faça um programa que leia quantidade
+de carros que o funcionário vendeu e calcule o salário total do funcionário.
+*/
+
 int main(){
 
     setlocale(LC_ALL, "Portuguese");

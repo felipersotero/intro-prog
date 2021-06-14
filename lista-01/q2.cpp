@@ -3,6 +3,11 @@
 
 using namespace std;
 
+/*
+02) Faça um programa que leia cinco números inteiros, calcule e escreva a soma, o produto e a média
+dos números lidos.
+*/
+
 int main(){
 
     setlocale(LC_ALL, "Portuguese");
